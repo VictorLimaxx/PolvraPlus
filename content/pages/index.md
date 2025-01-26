@@ -278,12 +278,6 @@ sections:
       Um serviço que ajuda as empresas a gerenciar suas contas e postagens nas
       redes sociais.
     actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
       - label: See Tutorials
         url: /
         showIcon: true
