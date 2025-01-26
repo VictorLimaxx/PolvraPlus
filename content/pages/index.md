@@ -300,7 +300,7 @@ sections:
       Um serviço que oferece consultoria e orientação para startups e pequenos
       servidores.
     actions:
-      - label: Get started
+      - label: Servidor
         url: /
         icon: arrowRight
         iconPosition: right
