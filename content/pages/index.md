@@ -114,8 +114,9 @@ sections:
       - title: Java
         subtitle: IP de conexão
         text: |
-          IP: 
-          PolvoraCraftPlus.aternos.me:62763
+          IP:
+          PolvoraCraftPlus.aternos.me:
+          62763
         image:
           url: /images/icon2.svg
           altText: Featured icon two
