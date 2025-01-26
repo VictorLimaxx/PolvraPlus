@@ -418,33 +418,6 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design é como funciona, como funciona. Um bom design não torna apenas
-          um produto esteticamente agradável, mas também um prazer de usar."
-        tagline: ''
-        subtitle: 'Limaaxx, Company'
-        text: ''
-        image:
-          url: /images/Limaax.gif
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
           “A designer knows he has achieved perfection not when there is nothing
           left to add, but when there is nothing left to take away.”
         tagline: Testimonial 4
