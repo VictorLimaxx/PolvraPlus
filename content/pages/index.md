@@ -78,7 +78,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: IP's
+    subtitle: IP's de coneção
     items:
       - type: FeaturedItem
         title: 500k
