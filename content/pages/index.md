@@ -424,7 +424,7 @@ sections:
           "Design pode ser arte. Design pode ser estética. Design é tão simples,
           por isso é tão complicado."
         tagline: ''
-        subtitle: 'Jane Walters, Company'
+        subtitle: 'Limaaxx, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
