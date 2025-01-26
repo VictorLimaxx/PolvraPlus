@@ -394,7 +394,7 @@ sections:
           "Design é um plano para organizar os elementos da melhor maneira para
           atingir um propósito específico."
         tagline: ''
-        subtitle: 'John Doe, Company'
+        subtitle: 'Limaaxx, Company'
         text: ''
         image:
           url: /images/Limaax.gif
