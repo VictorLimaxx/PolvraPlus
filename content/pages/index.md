@@ -137,7 +137,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Servidor Do discord
-        subtitle: Faster
+        subtitle: Link's
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
