@@ -275,8 +275,8 @@ sections:
       type: TitleBlock
     subtitle: Aumente seu alcance
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      Um serviço que ajuda as empresas a gerenciar suas contas e postagens nas
+      redes sociais.
     actions:
       - label: Get started
         url: /
