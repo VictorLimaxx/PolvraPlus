@@ -277,14 +277,7 @@ sections:
     text: >
       Um serviço que ajuda as empresas a gerenciar suas contas e postagens nas
       redes sociais.
-    actions:
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
+    actions: []
     media:
       url: /images/hero2.svg
       altText: Fun feature preview
