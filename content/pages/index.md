@@ -361,7 +361,7 @@ sections:
     type: DividerSection
   - type: CarouselSection
     title: null
-    subtitle: O que nossos clientes dizem sobre nó
+    subtitle: O que nossos clientes dizemsobre nó
     items:
       - title: >-
           “Um designer sabe que alcançou a perfeição não quando não há mais nada
