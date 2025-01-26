@@ -195,8 +195,7 @@ sections:
       - url: /images/contenful-logo.svg
         altText: Contentful logo
         type: ImageBlock
-      - url: /images/polvora.png
-        altText: Sanity logo
+      - altText: Sanity logo
         type: ImageBlock
       - url: /images/19d0ccd35aa96bac4f7f4c4c422c052e.png
         altText: Rangle logo
