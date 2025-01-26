@@ -395,10 +395,7 @@ sections:
           atingir um propósito específico."
         tagline: ''
         subtitle: 'John Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: ''
         image:
           url: /images/Limaax.gif
           altText: John Doe
