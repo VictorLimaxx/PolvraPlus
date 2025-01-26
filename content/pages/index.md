@@ -391,33 +391,6 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design é um plano para organizar os elementos da melhor maneira para
-          atingir um propósito específico."
-        tagline: ''
-        subtitle: 'Limaaxx, Company'
-        text: ''
-        image:
-          url: /images/Limaax.gif
-          altText: John Doe
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
           “A designer knows he has achieved perfection not when there is nothing
           left to add, but when there is nothing left to take away.”
         tagline: Testimonial 4
