@@ -457,7 +457,24 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Envie um Gmail para nossa equipe web
-    text: "Nossa equipe está sempre pronta para ajudar! Seja para tirar dúvidas, resolver problemas, compartilhar ideias ou sugerir melhorias, queremos garantir que você tenha a melhor experiência possível com o servidor Pólvora.\n\nEntre em contato conosco para:\n\n*   Obter suporte técnico ou esclarecer dúvidas.\n\n*   Reportar problemas ou sugestões de melhorias.\n\n*   Saber mais sobre nossos eventos, parcerias ou projetos.\n\n*   Conectar-se com a administração para propostas e oportunidades.\n\nEstamos aqui para ouvir você e tornar o Pólvora um lugar ainda melhor para todos! Não hesite em nos procurar. \U0001F60A\n"
+    text: >+
+      Nossa equipe está sempre pronta para ajudar! Seja para tirar dúvidas,
+      resolver problemas, compartilhar ideias ou sugerir melhorias, queremos
+      garantir que você tenha a melhor experiência possível com o servidor
+      Pólvora.
+
+
+      *   Obter suporte técnico ou esclarecer dúvidas.
+
+
+      *   Reportar problemas ou sugestões de melhorias.
+
+
+      *   Saber mais sobre nossos eventos, parcerias ou projetos.
+
+
+      *   Conectar-se com a administração para propostas e oportunidades.
+
     media:
       fields:
         - name: name
