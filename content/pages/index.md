@@ -7,6 +7,9 @@ sections:
       text: Bem Vindo ao Site do PolvoraCraft
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          fontWeight: 700
     subtitle: O melhor servidor de minecraft java e bedrock
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
