@@ -12,10 +12,10 @@ sections:
           fontWeight: 700
     subtitle: O melhor servidor de minecraft java e bedrock
     text: >+
-      O site Pólvora foi criado para fortalecer e expandir a comunidade em torno
-      do nosso servidor de Minecraft. Ele serve como um ponto de encontro para
-      jogadores que compartilham a paixão por explorar, criar e se aventurar em
-      um universo único.
+      <div style="text-align: left">O site Pólvora foi criado para fortalecer e
+      expandir a comunidade em torno do nosso servidor de Minecraft. Ele serve
+      como um ponto de encontro para jogadores que compartilham a paixão por
+      explorar, criar e se aventurar em um universo único.</div>
 
 
       Nosso objetivo é oferecer um espaço completo, onde os jogadores possam
@@ -31,7 +31,7 @@ sections:
       Seja bem-vindo ao Pólvora! Construa sua história com a gente.
 
 
-      *   <div style="text-align: center">
+      *   <div style="text-align: center"></div>
 
           </div>
 
