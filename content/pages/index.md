@@ -279,7 +279,7 @@ sections:
       redes sociais.
     actions: []
     media:
-      url: /images/hero2.svg
+      url: /images/19d0ccd35aa96bac4f7f4c4c422c052e.png
       altText: Fun feature preview
       type: ImageBlock
     badge:
