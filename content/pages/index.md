@@ -11,10 +11,30 @@ sections:
         self:
           fontWeight: 700
     subtitle: O melhor servidor de minecraft java e bedrock
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      O site Pólvora foi criado para fortalecer e expandir a comunidade em torno
+      do nosso servidor de Minecraft. Ele serve como um ponto de encontro para
+      jogadores que compartilham a paixão por explorar, criar e se aventurar em
+      um universo único.
+
+
+      Nosso objetivo é oferecer um espaço completo, onde os jogadores possam
+      encontrar informações sobre o servidor, regras, eventos, suporte e
+      novidades, além de fortalecer as conexões entre a comunidade.
+
+
+      O Pólvora é mais do que um site: é o coração digital de uma comunidade
+      vibrante, feita por jogadores e para jogadores. Aqui, você sempre
+      encontrará um lugar para explorar e crescer!
+
+
+      Seja bem-vindo ao Pólvora! Construa sua história com a gente.
+
+
+      *   <div style="text-align: center">
+
+          </div>
+
     actions:
       - label: Get started
         altText: ''
