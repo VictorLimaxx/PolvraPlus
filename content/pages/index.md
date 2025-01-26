@@ -422,10 +422,7 @@ sections:
           um produto esteticamente agradável, mas também um prazer de usar."
         tagline: ''
         subtitle: 'Limaaxx, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: ''
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
