@@ -279,7 +279,7 @@ sections:
       redes sociais.
     actions: []
     media:
-      url: /images/19d0ccd35aa96bac4f7f4c4c422c052e.png
+      url: /images/images (1).jfif
       altText: Fun feature preview
       type: ImageBlock
     badge:
