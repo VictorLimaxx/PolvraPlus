@@ -279,7 +279,7 @@ sections:
       redes sociais.
     actions: []
     media:
-      url: /images/images (1).jfif
+      url: /images/abstract-feature2.svg
       altText: Fun feature preview
       type: ImageBlock
       styles:
