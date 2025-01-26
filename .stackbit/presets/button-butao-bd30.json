@@ -1,0 +1,28 @@
+{
+    "model": "Button",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "butão",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "boton"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "label": "Get started",
+                "altText": null,
+                "url": "/",
+                "showIcon": null,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": null
+            },
+            "thumbnail": "images/button-butao-bd30.png"
+        }
+    ]
+}
