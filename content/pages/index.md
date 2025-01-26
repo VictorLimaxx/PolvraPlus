@@ -28,7 +28,7 @@ sections:
       Seja bem-vindo ao Pólvora! Construa sua história com a gente.</div>
 
     actions:
-      - label: Get started
+      - label: começar
         altText: ''
         url: /
         showIcon: false
