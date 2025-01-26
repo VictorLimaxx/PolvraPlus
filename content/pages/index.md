@@ -54,7 +54,7 @@ sections:
         margin:
           - mt-2
       subtitle:
-        fontWeight: 700
+        fontWeight: 400
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
