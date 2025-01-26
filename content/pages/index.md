@@ -279,9 +279,13 @@ sections:
       redes sociais.
     actions: []
     media:
-      url: /images/hero2.svg
+      url: /images/abstract-feature2.svg
       altText: Fun feature preview
       type: ImageBlock
+      styles:
+        self:
+          borderWidth: 0
+          borderRadius: medium
     badge:
       label: Midias
       color: text-primary
