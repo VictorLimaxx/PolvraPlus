@@ -219,7 +219,7 @@ sections:
           explicabo.
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/19d0ccd35aa96bac4f7f4c4c422c052e.png
           altText: Featured item
           styles:
             self:
