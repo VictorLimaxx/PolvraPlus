@@ -457,10 +457,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Envie um Gmail para nossa equipe web
-    text: |
-
-
-      da
+    text: "**Por que entrar em contato com nossa equipe?**\n\nNossa equipe está sempre pronta para ajudar! Seja para tirar dúvidas, resolver problemas, compartilhar ideias ou sugerir melhorias, queremos garantir que você tenha a melhor experiência possível com o servidor Pólvora.\n\nEntre em contato conosco para:\n\n*   Obter suporte técnico ou esclarecer dúvidas.\n\n*   Reportar problemas ou sugestões de melhorias.\n\n*   Saber mais sobre nossos eventos, parcerias ou projetos.\n\n*   Conectar-se com a administração para propostas e oportunidades.\n\nEstamos aqui para ouvir você e tornar o Pólvora um lugar ainda melhor para todos! Não hesite em nos procurar. \U0001F60A\n"
     media:
       fields:
         - name: name
