@@ -295,7 +295,7 @@ sections:
       text: Consultoria Empresarial
       color: text-dark
       type: TitleBlock
-    subtitle: Be in good company
+    subtitle: Esteja em boa companhia
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
