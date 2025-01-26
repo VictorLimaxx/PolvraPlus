@@ -81,7 +81,7 @@ sections:
     subtitle: IP's de coneção
     items:
       - type: FeaturedItem
-        title: 500k
+        title: Bedrock
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
