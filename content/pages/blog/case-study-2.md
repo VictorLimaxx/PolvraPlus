@@ -28,7 +28,7 @@ bottomSections:
   - items:
       - title: Company PolvoraCraft
         tagline: ''
-        subtitle: Fundador Principal do Polvora
+        subtitle: Melhor servidor de minecraft Java e Bedrock
         image:
           url: /images/telus-logo.svg
           altText: Company logo
