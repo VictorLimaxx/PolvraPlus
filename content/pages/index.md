@@ -285,7 +285,7 @@ sections:
       styles:
         self:
           borderWidth: 0
-          borderRadius: x-small
+          borderRadius: medium
     badge:
       label: Midias
       color: text-primary
