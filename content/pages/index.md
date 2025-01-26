@@ -301,7 +301,7 @@ sections:
       servidores.
     actions:
       - label: Servidor
-        url: /
+        url: 'https://discord.gg/YENRvmCxet'
         icon: arrowRight
         iconPosition: right
         style: secondary
