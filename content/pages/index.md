@@ -453,7 +453,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: Generic Section With A Form
+      text: Entre em contato com nossa equipe
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
