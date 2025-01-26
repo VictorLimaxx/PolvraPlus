@@ -453,7 +453,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: Lista de recursos aqui
       color: text-primary
       styles:
         self:
