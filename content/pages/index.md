@@ -424,7 +424,7 @@ sections:
         subtitle: 'Limaaxx, Company'
         text: ''
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/Limaax.gif
           altText: Maria Walters
           styles:
             self:
