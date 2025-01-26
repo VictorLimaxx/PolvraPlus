@@ -393,7 +393,7 @@ sections:
       - title: >-
           "Design é um plano para organizar os elementos da melhor maneira para
           atingir um propósito específico."
-        tagline: Testimonial 2
+        tagline: ''
         subtitle: 'John Doe, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
