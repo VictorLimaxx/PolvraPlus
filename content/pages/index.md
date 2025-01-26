@@ -270,7 +270,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Social Media Management
+      text: Gerenciamento de mídias sociais
       color: text-dark
       type: TitleBlock
     subtitle: Increase your reach
