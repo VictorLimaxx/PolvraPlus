@@ -364,8 +364,8 @@ sections:
     subtitle: What our customers say about us
     items:
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          “Um designer sabe que alcançou a perfeição não quando não há mais nada
+          a acrescentar, mas quando não há mais nada a retirar.”
         tagline: Testimonial 1
         subtitle: 'Maria Walters, Company'
         text: >-
