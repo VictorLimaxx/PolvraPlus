@@ -84,9 +84,9 @@ sections:
         title: Bedrock
         subtitle: IP de conexão
         text: |
-          **\*\*Endereço: PolvoraCraftPlus.aternos.me**
+          **Endereço: PolvoraCraftPlus.aternos.me**
 
-          **Porta: 62763\*\***
+          **Porta: 62763**
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
