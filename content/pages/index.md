@@ -213,10 +213,16 @@ sections:
         title: Fundadores presentes do PolvoraCraft
         tagline: Feature 1
         subtitle: Credito's
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          **Limaaxx** – Desenvolvedor web, especializado em organizar e
+          solucionar problemas dentro da comunidade com eficiência e dedicação.
+
+
+          **Rouxx** – Fundador principal, responsável por implementar novas
+          ideias para o servidor e gerenciar contratos de forma estratégica.
+
+
+
         image:
           type: ImageBlock
           url: /images/19d0ccd35aa96bac4f7f4c4c422c052e.png
