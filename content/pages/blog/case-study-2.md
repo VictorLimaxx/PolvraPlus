@@ -28,10 +28,7 @@ bottomSections:
   - items:
       - title: Company PolvoraCraft
         tagline: ''
-        subtitle: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at
-          auctor sapien.
+        subtitle: Fundador Principal do Polvora
         image:
           url: /images/telus-logo.svg
           altText: Company logo
