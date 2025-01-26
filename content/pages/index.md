@@ -420,7 +420,7 @@ sections:
       - title: >-
           "Design é como funciona, como funciona. Um bom design não torna apenas
           um produto esteticamente agradável, mas também um prazer de usar."
-        tagline: Testimonial 3
+        tagline: ''
         subtitle: 'Maria Walters, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
