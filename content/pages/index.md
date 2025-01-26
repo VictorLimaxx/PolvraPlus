@@ -1,19 +1,34 @@
 ---
-title: Home
+title: Inicio
 slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: Bem Vindo ao Site do PolvoraCraft
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      styles:
+        self:
+          fontWeight: 700
+    subtitle: O melhor servidor de minecraft java e bedrock
+    text: >+
+      <div style="text-align: left">O site Pólvora foi criado para fortalecer e
+      expandir a comunidade em torno do nosso servidor de Minecraft. Ele serve
+      como um ponto de encontro para jogadores que compartilham a paixão por
+      explorar, criar e se aventurar em um universo único.
+
+      Nosso objetivo é oferecer um espaço completo, onde os jogadores possam
+      encontrar informações sobre o servidor, regras, eventos, suporte e
+      novidades, além de fortalecer as conexões entre a comunidade.
+
+      O Pólvora é mais do que um site: é o coração digital de uma comunidade
+      vibrante, feita por jogadores e para jogadores. Aqui, você sempre
+      encontrará um lugar para explorar e crescer!
+
+      Seja bem-vindo ao Pólvora! Construa sua história com a gente.</div>
+
     actions:
-      - label: Get started
+      - label: começar
         altText: ''
         url: /
         showIcon: false
@@ -22,22 +37,13 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
     media:
-      url: /images/main-hero.svg
+      url: /images/abstract-feature1.svg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Inicio
       color: text-primary
       type: Badge
     elementId: ''
@@ -51,23 +57,29 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+        margin:
+          - mt-2
+      subtitle:
+        fontWeight: 500
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Java e Bedrock
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: IP's de conexão
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: Bedrock
+        subtitle: IP de conexão
+        text: >
+          <div style="text-align: left">Endereço:
+          PolvoraCraftPlus.aternos.me</div>
+
+
+          Porta: 62763
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -86,18 +98,18 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/icon1.svg
+          url: /images/19d0ccd35aa96bac4f7f4c4c422c052e.png
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Java
+        subtitle: IP de conexão
+        text: |
+          IP:
+          PolvoraCraftPlus.aternos.me:
+          62763
         image:
-          url: /images/icon2.svg
+          url: /images/19d0ccd35aa96bac4f7f4c4c422c052e.png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
@@ -115,14 +127,12 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
-        subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Servidor Do discord
+        subtitle: Link's
+        text: |
+          [https://discord.gg/pb3Q73raer ](https://discord.gg/pb3Q73raer)
         image:
-          url: /images/icon3.svg
+          url: /images/19d0ccd35aa96bac4f7f4c4c422c052e.png
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
@@ -138,18 +148,9 @@ sections:
             borderRadius: x-large
             flexDirection: row
         type: FeaturedItem
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Button
+    actions: []
     badge:
-      label: This is a badge
+      label: Nossos servidores
       color: text-primary
       styles:
         self:
@@ -168,7 +169,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: Empresas premiadas confiam em nós
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
@@ -185,11 +186,9 @@ sections:
       - url: /images/contenful-logo.svg
         altText: Contentful logo
         type: ImageBlock
-      - url: /images/sanity-logo.svg
-        altText: Sanity logo
+      - altText: Sanity logo
         type: ImageBlock
-      - url: /images/rangle-logo.svg
-        altText: Rangle logo
+      - altText: Rangle logo
         type: ImageBlock
     motion: move-to-left
     colors: bg-light-fg-dark
@@ -199,10 +198,52 @@ sections:
       subtitle:
         textAlign: center
     type: ImageGallerySection
+  - type: CarouselSection
+    items:
+      - type: FeaturedItem
+        title: Fundadores presentes do PolvoraCraft
+        tagline: Feature 1
+        subtitle: Credito's
+        text: >+
+          **Limaaxx** – Desenvolvedor web, especializado em organizar e
+          solucionar problemas dentro da comunidade com eficiência e dedicação.
+
+
+          **Rouxx** – Fundador principal, responsável por implementar novas
+          ideias para o servidor e gerenciar contratos de forma estratégica.
+
+
+
+        image:
+          type: ImageBlock
+          url: /images/19d0ccd35aa96bac4f7f4c4c422c052e.png
+          altText: Featured item
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+    variant: tabs-nav
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
-      - content/pages/blog/case-study-3.md
     showThumbnail: true
     showDate: true
     showAuthor: true
@@ -229,124 +270,20 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Grow your business 10x faster
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-      autoplay: true
-      loop: true
-      muted: true
-    badge:
-      label: Key Benefits
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: col
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: GenericSection
-  - type: GenericSection
-    title:
-      text: Generic section with a video
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
-      type: TitleBlock
-    subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    actions: []
-    media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-    elementId: null
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: row
-        justifyContent: center
-      subtitle:
-        textAlign: left
-  - title:
-      text: Social Media Management
+      text: Gerenciamento de mídias sociais
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
+    subtitle: Aumente seu alcance
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
-    actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
+      Um serviço que ajuda as empresas a gerenciar suas contas e postagens nas
+      redes sociais.
+    actions: []
     media:
       url: /images/hero2.svg
       altText: Fun feature preview
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Midias
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
@@ -355,33 +292,26 @@ sections:
         alignItems: center
     type: GenericSection
   - title:
-      text: Business Consulting
+      text: Consultoria Empresarial
       color: text-dark
       type: TitleBlock
-    subtitle: Be in good company
+    subtitle: Esteja em boa companhia
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      Um serviço que oferece consultoria e orientação para startups e pequenos
+      servidores.
     actions:
-      - label: Get started
-        url: /
+      - label: Servidor
+        url: 'https://discord.gg/YENRvmCxet'
         icon: arrowRight
         iconPosition: right
         style: secondary
         type: Button
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
     media:
       url: /images/hero3.svg
       altText: Dope design preview
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Consulta
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
@@ -402,19 +332,16 @@ sections:
     type: DividerSection
   - type: CarouselSection
     title: null
-    subtitle: What our customers say about us
+    subtitle: O que você precisa saber
     items:
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
-        tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          “Um designer sabe que alcançou a perfeição não quando não há mais nada
+          a acrescentar, mas quando não há mais nada a retirar.”
+        tagline: ''
+        subtitle: 'Limaaxx, Company'
+        text: ''
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/Limaax.gif
           altText: Maria Walters
           styles:
             self:
@@ -435,44 +362,13 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is a plan for arranging elements in such a way as best to accomplish a particular purpose."
-        tagline: Testimonial 2
-        subtitle: 'John Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          “Um designer sabe que alcançou a perfeição não quando não há mais nada
+          a acrescentar, mas quando não há mais nada a retirar.”
+        tagline: ''
+        subtitle: 'Limaaxx, Company'
+        text: ''
         image:
-          url: /images/person-placeholder-light.png
-          altText: John Doe
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          "Design is how it works, how it functions. Good design doesn't just make a product aesthetically pleasing, it makes it a pleasure to use."
-        tagline: Testimonial 3
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/person-placeholder-light.png
+          url: /images/Limaax.gif
           altText: Maria Walters
           styles:
             self:
@@ -493,16 +389,13 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
-        tagline: Testimonial 4
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          "Design pode ser arte. Design pode ser estética. Design é tão simples,
+          por isso é tão complicado."
+        tagline: ''
+        subtitle: 'Limaaxx, Company'
+        text: ''
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/Limaax.gif
           altText: Maria Walters
           styles:
             self:
@@ -510,64 +403,6 @@ sections:
           type: ImageBlock
         actions: []
         colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple, that's why it is so complicated."
-        tagline: Testimonial 5
-        subtitle: 'Jane Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          “Quote from some important person goes right here. I love using Netlify Create.”
-        tagline: Testimonial 6
-        subtitle: 'Jane Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/img-placeholder-dark.png
-          altText: Jane Doe
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -589,106 +424,11 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: Featured items section subtitle
-    items:
-      - title: Feature Item One
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
-        image:
-          url: /images/abstract-feature1.svg
-          altText: Placeholder Image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-      - title: Feature Item Two
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
-        image:
-          url: /images/abstract-feature2.svg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-      - title: Feature Item Three
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Learn from the tutorial and build your first awesome Netlify Create site.
-        image:
-          url: /images/abstract-feature1.svg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-    variant: three-col-grid
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-8
-          - pb-16
-          - pr-8
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: FeaturedItemsSection
-  - title:
-      text: Generic Section With A Form
+      text: Entre em contato com nossa equipe
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: Envie um Gmail para nossa equipe web
+    text: "**Por que entrar em contato com nossa equipe?**\n\nNossa equipe está sempre pronta para ajudar! Seja para tirar dúvidas, resolver problemas, compartilhar ideias ou sugerir melhorias, queremos garantir que você tenha a melhor experiência possível com o servidor Pólvora.\n\nEntre em contato conosco para:\n\n*   Obter suporte técnico ou esclarecer dúvidas.\n\n*   Reportar problemas ou sugestões de melhorias.\n\n*   Saber mais sobre nossos eventos, parcerias ou projetos.\n\n*   Conectar-se com a administração para propostas e oportunidades.\n\nEstamos aqui para ouvir você e tornar o Pólvora um lugar ainda melhor para todos! Não hesite em nos procurar. \U0001F60A\n"
     media:
       fields:
         - name: name
@@ -726,14 +466,14 @@ sections:
       type: FormBlock
       submitButton:
         type: SubmitButtonFormControl
-        label: Submit
+        label: enviar
         showIcon: false
         icon: arrowRight
         iconPosition: right
         style: primary
         elementId: null
     badge:
-      label: Contact Us
+      label: Contato
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
