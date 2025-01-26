@@ -423,7 +423,7 @@ sections:
       - title: >-
           "Design pode ser arte. Design pode ser estética. Design é tão simples,
           por isso é tão complicado."
-        tagline: Testimonial 5
+        tagline: Te
         subtitle: 'Jane Walters, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
