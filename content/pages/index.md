@@ -141,7 +141,7 @@ sections:
         text: |
           [https://discord.gg/pb3Q73raer ](https://discord.gg/pb3Q73raer)
         image:
-          url: /images/icon3.svg
+          url: /images/19d0ccd35aa96bac4f7f4c4c422c052e.png
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
