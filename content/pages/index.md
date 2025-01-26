@@ -457,11 +457,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Envie um Gmail para nossa equipe web
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: "****\n\nNossa equipe está sempre pronta para ajudar! Seja para tirar dúvidas, resolver problemas, compartilhar ideias ou sugerir melhorias, queremos garantir que você tenha a melhor experiência possível com o servidor Pólvora.\n\nEntre em contato conosco para:\n\n*   Obter suporte técnico ou esclarecer dúvidas.\n\n*   Reportar problemas ou sugestões de melhorias.\n\n*   Saber mais sobre nossos eventos, parcerias ou projetos.\n\n*   Conectar-se com a administração para propostas e oportunidades.\n\nEstamos aqui para ouvir você e tornar o Pólvora um lugar ainda melhor para todos! Não hesite em nos procurar. \U0001F60A\n\n\n\n"
     media:
       fields:
         - name: name
