@@ -391,8 +391,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is a plan for arranging elements in such a way as best to
-          accomplish a particular purpose."
+          "Design é um plano para organizar os elementos da melhor maneira para
+          atingir um propósito específico."
         tagline: Testimonial 2
         subtitle: 'John Doe, Company'
         text: >-
