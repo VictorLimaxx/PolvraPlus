@@ -118,7 +118,7 @@ sections:
           PolvoraCraftPlus.aternos.me:
           62763
         image:
-          url: /images/icon2.svg
+          url: /images/19d0ccd35aa96bac4f7f4c4c422c052e.png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
