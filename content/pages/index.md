@@ -72,7 +72,7 @@ sections:
         fontWeight: 500
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Java e Bedrock
       color: text-dark
       styles:
         self:
