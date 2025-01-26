@@ -30,7 +30,7 @@ bottomSections:
         tagline: ''
         subtitle: Melhor servidor de minecraft Java e Bedrock
         image:
-          url: /images/telus-logo.svg
+          url: /images/rouxx.webp
           altText: Company logo
           styles:
             self:
