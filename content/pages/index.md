@@ -393,7 +393,7 @@ sections:
       - title: >-
           “Um designer sabe que alcançou a perfeição não quando não há mais nada
           a acrescentar, mas quando não há mais nada a retirar.”
-        tagline: Testimonial 4
+        tagline: ''
         subtitle: 'Maria Walters, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
