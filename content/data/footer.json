@@ -13,12 +13,6 @@
             "type": "Social"
         },
         {
-            "altText": "Gmail link",
-            "url": "",
-            "icon": "mail",
-            "type": "Social"
-        },
-        {
             "altText": "Email link",
             "url": "/",
             "icon": "mail",
