@@ -421,8 +421,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design can be art. Design can be aesthetics. Designis so simple,
-          that's why it is so complicated."
+          "Design pode ser arte. Design pode ser estética. Design é tão simples,
+          por isso é tão complicado."
         tagline: Testimonial 5
         subtitle: 'Jane Walters, Company'
         text: >-
