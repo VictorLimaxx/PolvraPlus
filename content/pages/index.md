@@ -366,7 +366,7 @@ sections:
       - title: >-
           “Um designer sabe que alcançou a perfeição não quando não há mais nada
           a acrescentar, mas quando não há mais nada a retirar.”
-        tagline: Testimonial 1
+        tagline: ''
         subtitle: 'Limaaxx, Company'
         text: ''
         image:
