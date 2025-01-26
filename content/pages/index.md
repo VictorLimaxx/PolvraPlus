@@ -400,7 +400,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/Limaax.gif
           altText: John Doe
           styles:
             self:
