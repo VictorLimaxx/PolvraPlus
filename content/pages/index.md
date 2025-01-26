@@ -282,6 +282,9 @@ sections:
       url: /images/images (1).jfif
       altText: Fun feature preview
       type: ImageBlock
+      styles:
+        self:
+          borderWidth: 4
     badge:
       label: Midias
       color: text-primary
