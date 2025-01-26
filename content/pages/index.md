@@ -83,15 +83,12 @@ sections:
       - type: FeaturedItem
         title: Bedrock
         subtitle: IP de conexão
-        text: |+
-          ```
-          Endereço: PolvoraCraftPlus.aternos.me
-          ```
+        text: >
+          <div style="text-align: left">Endereço:
+          PolvoraCraftPlus.aternos.me</div>
 
-          ```
+
           Porta: 62763
-          ```
-
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
