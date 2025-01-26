@@ -1,7 +1,7 @@
 ---
 title: Rouxx
 slug: case-study-2
-date: '2025-02-26'
+date: '2025-01-26'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
