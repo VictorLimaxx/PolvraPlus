@@ -78,7 +78,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: IP's de coneção
+    subtitle: IP's de conexão
     items:
       - type: FeaturedItem
         title: Bedrock
