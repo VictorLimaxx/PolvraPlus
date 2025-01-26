@@ -284,7 +284,7 @@ sections:
       type: ImageBlock
       styles:
         self:
-          borderWidth: 4
+          borderWidth: 0
     badge:
       label: Midias
       color: text-primary
