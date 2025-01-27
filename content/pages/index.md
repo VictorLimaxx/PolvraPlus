@@ -40,7 +40,7 @@ sections:
     media:
       url: /images/abstract-feature1.svg
       altText: Unblock your team boost your time to production preview
-      elementId: da
+      elementId: ''
       type: ImageBlock
     badge:
       label: Inicio
